@@ -57,3 +57,4 @@ Then click:
 ```
 Run → Run All Cells
 ```
+This will execute the entire notebook and generate the sentiment analysis results.
