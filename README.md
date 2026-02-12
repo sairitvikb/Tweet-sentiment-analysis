@@ -29,3 +29,11 @@ It demonstrates text preprocessing, feature extraction, model training, and eval
 - Data visualization
 
 ---
+## 🚀 How to Run the Project
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/sairitvikb/Tweet-sentiment-analysis.git
+cd Tweet-Sentiment-Analysis
+```
