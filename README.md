@@ -20,3 +20,12 @@ It demonstrates text preprocessing, feature extraction, model training, and eval
 - Jupyter Notebook
 
 ---
+## 🔍 Features
+
+- Text preprocessing (cleaning, tokenization, stopword removal)
+- Feature extraction (TF-IDF / Count Vectorizer)
+- Model training and evaluation
+- Sentiment prediction on unseen tweets
+- Data visualization
+
+---
