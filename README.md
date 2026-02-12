@@ -9,3 +9,14 @@ This project analyzes tweet data and predicts sentiment based on text content.
 It demonstrates text preprocessing, feature extraction, model training, and evaluation using Python.
 
 ---
+## 🛠️ Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- NLTK
+- Matplotlib / Seaborn
+- Jupyter Notebook
+
+---
