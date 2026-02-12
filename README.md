@@ -42,3 +42,18 @@ cd Tweet-Sentiment-Analysis
 python -m venv venv
 venv\Scripts\activate   # Windows
 ```
+### 3️⃣ Launch Jupyter Notebook
+
+Run the following command in your project directory:
+
+```bash
+jupyter notebook
+```
+Open the notebook file:
+```
+Tweet_sentiment_Analysis.ipynb
+```
+Then click:
+```
+Run → Run All Cells
+```
