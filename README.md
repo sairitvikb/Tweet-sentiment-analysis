@@ -37,3 +37,8 @@ It demonstrates text preprocessing, feature extraction, model training, and eval
 git clone https://github.com/sairitvikb/Tweet-sentiment-analysis.git
 cd Tweet-Sentiment-Analysis
 ```
+### 2️⃣ Create Virtual Environment
+```bash
+python -m venv venv
+venv\Scripts\activate   # Windows
+```
